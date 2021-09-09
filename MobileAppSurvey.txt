@@ -6,8 +6,7 @@ Survey
 Quick note: Some of the people I surveyed had a hard time giving me an idea on the spot. For those people I also gave them
 the option of telling me about an application on their phone that already attempts to solve a problem they already have,
 and what they do and do not like about it. I just figured I would mention this because not everyone seems to have an easy
-time coming up with a problem that can be solved by an app (possibly due to age, economic status, professional specialization,
-or simply the type of person they are). Also, a couple of people were not in a setting where they were able to download and test an app,
+time coming up with a problem that can be solved by an app. Also, a couple of people were not in a setting where they were able to download and test an app,
 in which case I did it for them and explained the user experience and the purpose/gist of the app.
 
   Person		  Problem/Idea				  App Found		    Likes				    Dislikes				    Improvements		    Age	    Gender	    Eduction/Occupation		    My Comments

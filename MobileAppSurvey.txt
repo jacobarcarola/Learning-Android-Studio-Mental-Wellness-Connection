@@ -1,0 +1,66 @@
+Jacob Cole
+Due: 8 September 2021
+Mobile App Programming I
+Survey
+
+Quick note: Some of the people I surveyed had a hard time giving me an idea on the spot. For those people I also gave them
+the option of telling me about an application on their phone that already attempts to solve a problem they already have,
+and what they do and do not like about it. I just figured I would mention this because not everyone seems to have an easy
+time coming up with a problem that can be solved by an app (possibly due to age, economic status, professional specialization,
+or simply the type of person they are). Also, a couple of people were not in a setting where they were able to download and test an app,
+in which case I did it for them and explained the user experience and the purpose/gist of the app.
+
+  Person		  Problem/Idea				  App Found		    Likes				    Dislikes				    Improvements		    Age	    Gender	    Eduction/Occupation		    My Comments
+||========================================================================================================================================================================================================================================================================================================================================================================		
+||David Greene	  	||In the world of counselling, 		||Talkspace		  ||Does focus on a true problem	  ||Does not have a feature	          ||More emphasis on seeking	  ||23	  ||He/him	  ||Visual media arts student	  ||I know exactly the kind of problem that David is talking about, and in fact
+||			||therapy, phsyciatry, in the 		||			  ||in society and attempts to		  ||that gives 	the user a	 	  ||out a physical doctor	  ||	  ||		  ||				  ||when I was looking for apps that address it, I couldn't find any that were focused
+||			||world of mental health, it is 	||			  ||provide an answer to that		  ||way to reach out to a 		  ||for people who need that	  ||	  ||		  ||				  ||on finding mental health specialists in a particular area. More were focused on giving
+||			||really difficult to find mental 	||			  ||in its own unique way.		  ||physical MHP that fits		  || 				  ||	  ||		  ||				  ||the user a chatroom to use with a mental health professional rather than showing them
+||			||health professionals.		 	||			  ||					  ||their particular needs and		  ||				  ||	  ||		  ||				  ||physical results that they could potentially go to.
+||			||					||			  ||					  ||insurance.	  			  ||				  ||	  ||              ||				  ||
+||=======================================================================================================================================================================================================================================================================================================================================================================																																																																																												
+||Drew Perkins    	||He is a barista and explained to	||Aroma Joe's		  ||The ability to pay for your		  ||Doesn't have a full listed		  ||Scanning whole orders into	  ||22	  ||He/him	  ||Barista			  ||I think it would be cool to create a general-purpose coffee shop/cafe app that could
+||			||me that the app for the coffee	||			  ||order in-app with a linked		  ||menu, ordering is generally		  ||system with a barcode, full	  ||	  ||		  ||		  		  ||be custom tailored to whatever stores choose to use it. There are some potential problems
+||			||shop that he works at is good, but	||			  ||card, easy tipping, scannable	  ||not the most simple process		  ||menu, advice for different	  ||	  ||		  ||			  	  ||with this but it is certainly an idea.
+||			||has a few key issues that could be	||			  ||screen.				  ||(which it should be).		  ||orders that the customer      ||	  ||		  ||				  ||
+||			||addressed.				||			  ||					  ||					  ||might not normally get.       ||      ||		  ||				  ||
+||========================================================================================================================================================================================================================================================================================================================================================================							
+||Christina Cole  ||In the diabetes app marketplace,	  ||mySugr			  ||You fight a monster by input-	  ||Doesn't have very interesting	  ||More information about food	  ||50	  ||She/her	  ||Accountant					  ||I feel like this is a situation where researching diabetes would be very important
+||				  ||there is not one single app that	  ||				  ||ting your food/health details	  ||information/recommendations		  ||recommendations based		  ||	  ||		  ||							  ||prior to even attempting to make an app that encapsulates as many features as possible,
+||				  ||accomplishes everything she would	  ||				  ||on a daily basis, gives			  ||about what kinds of food would	  ||on lifestyle and likes		  ||	  ||		  ||							  ||though I find this to be a very interesting problem.	
+||				  ||like to see.						  ||				  ||important analytics/estimates	  ||be good to eat based on how you	  ||dislikes of food, more        ||	  ||		  ||							  ||
+||				  ||									  ||				  ||about your diabetes based on	  ||have been doing and what your	  ||advanced lifestyle and dietary||      ||          ||							  ||
+||				  ||									  ||				  ||progress. Has good features		  ||diet is.						  ||information and suggestions.  ||      ||          ||							  ||
+||				  ||									  ||				  ||for logging different kinds of	  ||								  ||Also would like reminders.	  ||      ||          ||							  ||
+||				  ||									  ||				  ||medicines for diabetes.			  ||                                  ||							  ||      ||          ||							  ||
+||=======================================================================================================================================================================================================================================================================================================================================================================																						
+||Sam Downey	  ||Would like to have an app that makes  ||Meetup			  ||Meetup appeared to him to be	  ||Appeared to him to look too		  ||Would like to see something	  ||24	  ||He/him	  ||Aerospace Engineer			  ||I didn't have much time with Sam, but it was fun to show him that apps exist
+||				  ||finding friends easier/finding people ||				  ||event-based, which he thought	  ||formal.							  ||like Meetup with a more casual||	  ||		  ||							  ||for what he was looking for. This may be a situation where the market is over-
+||				  ||with similar interests easier.		  ||				  ||was actually most likely a		  ||								  ||appearance.					  ||	  ||		  ||							  ||saturated with the desired product, but I would have to do more digging to find out
+||				  ||									  |					  ||better way of matching people	  ||								  ||							  ||	  ||		  ||							  ||how true that is.
+||				  ||									  ||				  ||up. 							  ||								  ||							  ||      ||		  ||							  ||
+||=======================================================================================================================================================================================================================================================================================================================================================================
+||Nathaniel M.    ||Translation of signage and			  ||Google Translate  ||Able to read everything*		  ||Sometimes it would not			  ||Would like to see			  ||31	  ||He/him	  ||Computer science student	  ||This problem is probably too big for just one person to solve,
+||				  ||text in countries that speak		  ||				  ||he saw while travelling in		  ||translate everything			  ||mistranslations fixed		  ||	  ||		  ||							  ||especially with how effective Google Translate already is. That
+||				  ||other languages.					  ||				  ||Japan with the photo feature.	  ||completely accurately.			  ||							  ||	  ||		  ||							  ||being said, this is from a computer science student who is picky enough
+||				  ||									  ||				  ||								  ||								  ||							  ||	  ||		  ||							  ||to seek out exactly what he wants in an app
+||=======================================================================================================================================================================================================================================================================================================================================================================
+||Nick Sundstrom  ||More advanced road trip information	  ||Google Maps		  ||Great at getting you from one	  ||Does not take into account		  ||Would like to see avg.		  ||23	  ||He/him	  ||Physicist					  ||Again, this may be too large of a problem for one person, but I find the idea of
+||				  ||app that uses a variety of data for	  ||				  ||place to another				  ||average miles per gallon/		  ||mpg and gas prices to tell	  ||	  ||		  ||							  ||being very specific about when and where to stop on a road trip based on information
+||				  ||route optimization.					  ||				  ||								  ||car information to make optimal	  ||you when to fill your tank/	  ||	  ||		  ||							  ||about the car to be very interesting.
+||				  ||									  ||				  ||								  ||pitstop decisions.				  ||stop for food and exactly	  ||	  ||		  ||							  ||																						
+||				  ||									  ||				  ||								  ||								  ||where it would be a good idea ||      ||		  ||							  ||
+||=======================================================================================================================================================================================================================================================================================================================================================================
+||Eden Zaleski	  ||A scalable recipe app that isn't	  ||Allrecipes Dinner ||Likes that you can leave notes on ||Does not like that it feels like a||Would like to see a comprehen-||22	  ||She/her	  ||Multiple					  ||I included two names because they had very similar answers. Delia was less specifc and I didn't have enough time with her to
+||Delia Zaleski	  ||clunky and has useful features for	  ||Spinner			  ||every recipe that can be saved.   ||Pinterest feed of recipes to try  ||sive list of recipes that are ||19	  ||She/her	  ||Flute student				  ||ask about sepcfic apps. I actually think that this could be an incredibly feasible project.
+||				  ||cooks depending on the way they prefer||				  ||								  ||								  ||easily searchable and categor-||	  ||		  ||							  ||
+||				  ||to read a recipe.					  ||				  ||								  || 								  ||ized in a clean way. Also 	  ||      ||		  ||							  ||
+||				  ||									  ||				  ||								  ||								  ||would like scalable ingredient||      ||		  ||							  ||
+||				  ||									  ||				  ||								  ||								  ||list and easy metric		  ||      ||		  ||							  ||
+||				  ||									  ||				  ||								  ||								  ||conversion.                   ||      ||		  ||							  ||
+||=======================================================================================================================================================================================================================================================================================================================================================================
+||Jerry Keon	  ||An app that tracks coffee brewing,    ||AeroPress Timer	  ||The user interface				  ||No ability to log brews			  ||Some sort of diary feature	  ||21	  ||He/him	  ||Coffee brewer			 	  ||Very niche, hoenstly a cool idea though.												
+||				  ||something that has a brew log that can||				  ||								  ||								  ||that allows for personal log  ||	  ||		  ||							  ||														
+||				  ||keep track of what you do and dont	  ||				  ||								  ||								  ||entries.					  ||	  ||		  ||							  ||											
+||				  ||like.								  ||				  ||								  ||								  ||							  ||	  ||		  ||							  ||												
+||=======================================================================================================================================================================================================================================================================================================================================================================

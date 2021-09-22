@@ -1,0 +1,50 @@
+Jacob Cole
+
+1. It seems as though people are really interested in apps centered around
+organization, particularly with daily planning or work planning. I understand
+why people would want better apps like this. Because there are multiple, there
+are going to be features that some apps have that others don't. It would be
+interesting to survey people specifically about organization apps to find out
+what they do and don't like about them, or what specific things they would like
+to have organized and tracked on their phone in their lives. Some people mentioned
+administrative problems, such as getting into a dorm building. Apps that solve
+problems like these are not what I would have initially considered to be a potential
+project, but I will admit it is an interesting road to take. Apps that interface
+with real world devices such as cars to see what the problems are with them were
+also brought up. I like this idea because it really makes your phone feel like a
+real world tool that can be used to improve your life. This is another potential
+design path to look into.
+
+2. I think that free apps with no ads are ideal from a user perspective. However,
+it is natural that a developer would want to get paid for their app, and in
+considering multiple ways that this could be done, I think that one of the best
+is donations. This is the way that websites such as Wikipedia remain active
+without selling ad space, and so far it has been mostly effective. It is not the
+most profitable way to get money from an app, but people who are passionate about
+it may feel it is worthwhile to pay the developer to ensure that support for the
+app continues. Another idea that I had was cosmetic purchases. Many free video
+games engage in this, where rather than having people pay for the game, they
+offer in-game cosmetic items that do not change the functionality of the game,
+but simply the look. I think that something down this avenue could be implemented
+in a mobile app in a way that does not alienate the customer base.
+
+3. In my opinion, Telegram has a fantastic UX/UI. When you launch the app, immediately in front
+of you are all of your conversations, and exactly three buttons: compose a new message, search
+through your messages, and the three-line symbol which brings you to app options and settings.
+I have never been confused on Telegram or felt as though it was too clunky. At the end of the day
+it is just a messaging app, however it is clean and customizable to fit whatever visual style you
+prefer. When messaging someone, you are given the option to call them next to their name in the
+top right, and the message bar is very basic. Attaching files is as easy as pressing the paper clip
+symbol, which has long been known as the "attachment" symbol. I'm not sure what else I really
+have to say about Telegram, other than if you don't use it I suggest trying it out to see if
+the UI/UX suits you.
+
+4. I would really like to focus on making something with a minimalist design that accomplishes
+a single goal as effectively as possible. Based on my own survey I found the most interesting
+idea to me to be the recipe app. One that allows a user to post any recipe they want, with a refined
+searching system, freely scalable ingredients/serving sizes, and clean presentation. I am also
+interested in creating an app that serves a very specific group of people, such as an app that
+helps people with diabetes to track their days and progress. I'm still not super sure which
+direction I want to go with my project, but I feel like I am between these two ideas right now. I
+think that our in class discussions have helped me to become more aware of apps that already
+solve the problems I am thinking about, what they do right and what they do wrong.

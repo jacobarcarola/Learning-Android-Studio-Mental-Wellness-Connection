@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7C4040"
+    tools:context=".weather">
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="124dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="16dp"
+        android:text="Weather"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="374dp"
+        android:layout_height="62dp"
+        android:autoLink="all|web"
+        android:text="Where I am from: Poway\nhttps://weather.com/weather/today/l/1af280cc41226298adaee7c00da25aad3c780e62dc39b1b901c6c2add795588d"
+        android:textColor="#F1E2E2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView26"
+        app:layout_constraintVertical_bias="0.031" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="374dp"
+        android:layout_height="62dp"
+        android:autoLink="all"
+        android:text="Where I am now: Merrimac\nhttps://weather.com/weather/today/l/7831fb6e6159d99bcd08ce712bb069a6f06e1fc4ccf39588c1d9d85f7c1fa590"
+        android:textColor="#F1E2E2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView27"
+        app:layout_constraintVertical_bias="0.034" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="374dp"
+        android:layout_height="62dp"
+        android:autoLink="all"
+        android:text="Where my family is from:\nhttps://weather.com/weather/today/l/3c9c76946dbd3a4284d0e28257dc0535231cbc97e4101e3f648a70180c5417a1"
+        android:textColor="#F1E2E2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView28"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="374dp"
+        android:layout_height="62dp"
+        android:autoLink="all"
+        android:text="Where I'd Like to be: Kauai, Hawaii:\nhttps://weather.com/weather/today/l/172523bd9afa3abf3690d2b0337a28376035acb447f432c1fa07d3967178321d"
+        android:textColor="#F1E2E2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView28"
+        app:layout_constraintVertical_bias="0.194" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="374dp"
+        android:layout_height="62dp"
+        android:autoLink="all"
+        android:text="Where I'd Like to be: Kauai, Hawaii:\nhttps://weather.com/weather/today/l/172523bd9afa3abf3690d2b0337a28376035acb447f432c1fa07d3967178321d"
+        android:textColor="#F1E2E2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView30"
+        app:layout_constraintVertical_bias="0.063" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="launch_weird"
+        android:text="Click here to see something weird!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView31" />
+</androidx.constraintlayout.widget.ConstraintLayout>

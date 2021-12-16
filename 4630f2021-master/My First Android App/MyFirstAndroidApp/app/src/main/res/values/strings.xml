@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">First Android App :D</string>
+    <string name="myName">Jacob Cole</string>
+    <string name="currentDate">9/29/2021</string>
+    <string name="birthPlace">Place of birth: Poway, California</string>
+    <string name="powayFacts">- Poway is where the band Blink182 is from\n- Poway is in San Diego County\n- Poway is where I went to the second grade in elementary school</string>
+    <string name="location">Where I live: Merrimac, MA</string>
+    <string name="locationFacts">- Merrimac is where many carriages were made prior to cars\n- Merrimac borders Amesbury to the East and Haverhill to the West. West Newbury is to the South, and multiple New Hampshire towns are in the North.</string>
+    <string name="desiredLocation">Where I would like to live: Kauai, Hawaii (but not forever)</string>
+    <string name="dLocFacts">- Kauai is the oldest of the main Hawaiian islands\n- I have been to Kauai before and loved my experience there\n- Kauai has many chickens roaming in the wild due to a storm damaging a chicken enclosure in the past.</string>
+    <string name="significantOther">My girlfriend:\n- Was born in Providence, RI\n- Moved to New Hampshire and Massachusetts when young.</string>
+    <string name="jakeFacts">- I moved to Massachusetts when I was 8 years old.\n- My favorite holiday is Halloween\n- I am a skateboarder\n- One of my desires in life is to obtain a SCUBA diving certification.</string>
+    <string name="button2">Click here to see some investment portfolios!</string>
+    <string name="edu">Highest Level of Education:\nCurrently pursuing bachelor\'s degree in computer science at the University of Massachusetts: Lowell</string>
+    <string name="hobbies">Hobbies and Skills:\n- Advanced knowledge and passion for IT systems and information security\n- Programming in C++, C, Java, and Python\n- Skateboarding, Rock Climbing, Running\n- Writing fiction</string>
+    <string name="work">Work Experience:\n-Information Technology at Charles River Laboratories June-August 2019\n- Information Technology at Charles River Laboratories July 2020-January 2021</string>
+    <string name="attempt">My Attempt To Make a Resume Using Text Views: a Journey</string>
+    <string name="blockofweirdtext">Something cool I found while playing with Radio Buttons is that if you place them in an array, there is an optical illusion. I\'ve found especially when I\'ve activated all of the buttons that it looks like there are circles in the blank spaces between the radio buttons, floating in nothingness....\n\nAnyways, I just thought this was an interesting interaction!</string>
+</resources>

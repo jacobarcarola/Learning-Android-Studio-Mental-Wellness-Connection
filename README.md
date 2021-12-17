@@ -2,3 +2,5 @@
 Repository for my Mobile App Programming I course :)
 
 My real name is Jacob Cole!
+
+Project folder contains my final project
